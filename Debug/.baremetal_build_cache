@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\Projects\GIT\NrfBareMetal\Debug\Exe\baremetal.out</Path>
+            <Output>
+                <Path>D:\Projects\GIT\NrfBareMetal\Debug\List\baremetal.map</Path>
+            </Output>
+            <Output>
+                <Path>D:\Projects\GIT\NrfBareMetal\Debug\Exe\baremetal_import_lib.o</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
