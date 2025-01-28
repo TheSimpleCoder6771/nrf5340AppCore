@@ -2,13 +2,11 @@
 #include <stdint.h>
 #include "nrf_gpio.h"
 
-
-
-
-/**
- * main() function
- * @return 0. int return type required by ANSI/ISO standard.
- */
+// *****************************************************************************
+// @brief main() function
+//
+// @return int 0. int return type required by ANSI/ISO standard.
+// *****************************************************************************
 int main( void )
 {
   // Configure LED-pins as outputs
